@@ -1,4 +1,5 @@
-This is git add status test.
-Hello World.
-git reset test.
-Git merge test.
+class HelloWorld
+  def self.hello
+    puts "Hello World"
+  end
+end
